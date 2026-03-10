@@ -161,3 +161,25 @@ plt.title("Object Detection with MobileNet-SSD")
 plt.axis("off")
 plt.show()
 ```
+## OUTPUT
+
+### Original Image
+<img width="286" height="500" alt="image" src="https://github.com/user-attachments/assets/b1cc3ae6-8bcd-49cd-bcd2-bd78f85814e6" />
+
+### Segmented ROI
+<img width="275" height="461" alt="image" src="https://github.com/user-attachments/assets/ec0389f0-8e3b-4be1-a8b1-cce412f6e742" />
+
+### Original Image
+<img width="249" height="465" alt="image" src="https://github.com/user-attachments/assets/09d107da-4e42-4e05-bb21-bd8183eeb1cb" />
+
+### Canny Edge Detection
+<img width="245" height="463" alt="image" src="https://github.com/user-attachments/assets/24b58d08-c0a5-42de-8b88-298a830179da" />
+
+### Handwriting Detection
+<img width="241" height="457" alt="image" src="https://github.com/user-attachments/assets/d9541447-e92a-4523-92d6-132f7150932b" />
+
+### Object Detection with MobileNet-SSD
+<img width="379" height="474" alt="image" src="https://github.com/user-attachments/assets/b7b5e16f-88dc-4871-9340-59056a23a5a4" />
+
+## RESULT
+Thus to write a Python program using OpenCV to perform the following image manipulations was verified successfully.
